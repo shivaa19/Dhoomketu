@@ -3,6 +3,9 @@ From risk signals to audit-ready intelligence.
 
 Dhoomketu is a full-stack banking risk and fraud intelligence dashboard built with React, TypeScript, Vite, Express, and Google Gemini. It brings transaction monitoring, fraud analysis, risk investigation, KYC/ID-proof verification, compliance governance, regulatory intelligence, alerts, reports, and an AI copilot into one operator-focused workspace.
 The application combines a rule-based transaction risk engine with optional Gemini AI analysis, so core fraud analysis can still return useful results when the Gemini API is unavailable.
+🚀 Live Demo
+Live Website: https://dhoomketu-nc32.vercel.app/
+Open Dhoomketu Live Demo
 ✨ Highlights
 - 🤖 Gemini-powered AI Fraud Copilot
 - 🔎 Transaction-level fraud and risk analysis
