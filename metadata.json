@@ -1,0 +1,6 @@
+{
+  "name": "RiskGuard AI — Risk, Fraud & Regulatory Intelligence Copilot",
+  "description": "From risk signals to audit-ready intelligence. Real-time transaction monitoring, algorithmic attribution, regulatory RAG retrieval, and audit-ready reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
